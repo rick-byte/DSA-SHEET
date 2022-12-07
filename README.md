@@ -1,5 +1,6 @@
 # DSA-SHEET
 
+-----Check if a pair exists with given sum in given array
 
 Naive Approach :- Time complexity in worset case is o(n)2 and space is constant o(1)
 
